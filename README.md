@@ -5,7 +5,8 @@
 3. Telephone Number Validator Project
 4. Cash Register Project
 5. Pokemon Search App Project
-### Guided Practice Projects (17)
+
+### [Guided Practice Projects (17)](https://github.com/HrishikeshBajirao/freeCodeCamp-JavaScript-Algorithms-and-Data-Structures-Certification/tree/main/Practice%20Projects/02%20-%20Basic%20JavaScript%20-%20Role%20Playing%20Game)
 
 1. Pyramid Generator (Introductory Javascript)
 2. Role Playing Game (Basic Javascript)
