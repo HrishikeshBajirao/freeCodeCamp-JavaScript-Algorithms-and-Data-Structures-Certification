@@ -1,4 +1,4 @@
- # 03 - Form Validation - Calorie Counter
+ // 03 - Form Validation - Calorie Counter
 
 const calorieCounter = document.getElementById('calorie-counter');
 const budgetNumberInput = document.getElementById('budget');
