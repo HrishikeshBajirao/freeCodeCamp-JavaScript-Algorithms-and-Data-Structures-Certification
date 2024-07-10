@@ -22,6 +22,5 @@
 12. Building a Spreadsheet (Functional Programming)
 13. Building a Shopping Cart (Basic OOP)
 14. Building a Platformer Game (Intermediate OOP)
-15. Building a Dice Game (Intermediate Algorithmic Thinking)
-16. fCC Authors Page (Learn fetch and promises)
-17. fCC Forum Leaderboard (Learn Asynchronous Programming).
+15. fCC Authors Page (Learn fetch and promises)
+16. fCC Forum Leaderboard (Learn Asynchronous Programming).
