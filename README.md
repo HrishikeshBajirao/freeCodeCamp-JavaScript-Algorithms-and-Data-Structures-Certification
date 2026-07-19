@@ -3,8 +3,6 @@
 ## [Certificate](https://freecodecamp.org/certification/hrishikeshbajirao/javascript-v9)
 [View Original](https://freecodecamp.org/certification/hrishikeshbajirao/javascript-v9)
 
-)
-
 ## Certification Self Projects
 1. Palindrome Checker Project
 2. Roman Numeral Converter Project
