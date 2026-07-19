@@ -1,7 +1,10 @@
 # freeCodeCamp - JavaScript Algorithms and Data Structures Certification
 
+This certification helped me build a stronger foundation in JavaScript by combining theory with practical implementation. Through guided and certification projects, I learned to solve problems using recursion, regular expressions, modern array methods, object-oriented programming, functional programming, and asynchronous data handling.
+
 ## [Certificate](https://freecodecamp.org/certification/hrishikeshbajirao/javascript-v9)
 [View Original](https://freecodecamp.org/certification/hrishikeshbajirao/javascript-v9)
+
 <img src="./freecodecamp-javascript-certificate.png" alt="certificate" width="800">
 
 ## Certification Self Projects
