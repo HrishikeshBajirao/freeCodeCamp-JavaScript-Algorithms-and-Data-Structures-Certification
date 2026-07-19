@@ -2,6 +2,7 @@
 
 ## [Certificate](https://freecodecamp.org/certification/hrishikeshbajirao/javascript-v9)
 [View Original](https://freecodecamp.org/certification/hrishikeshbajirao/javascript-v9)
+<img src="./freecodecamp-javascript-certificate.png" alt="certificate" width="800">
 
 ## Certification Self Projects
 1. Palindrome Checker Project
